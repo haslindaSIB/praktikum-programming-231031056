@@ -1,7 +1,7 @@
 # praktikum pengantar pemrograman
 
-<dif> Nama  : Haslinda </dif>
-<dif> NIM   : 231031056 </dif>
-<dif> Prodi : Sistem Informasi B </dif>
+<div> Nama  : Haslinda </div>
+<div> NIM   : 231031056 </div>
+<div> Prodi : Sistem Informasi B </div>
 
 *Praktikum 1: pengenalan variable `praktikum-b1.py`
